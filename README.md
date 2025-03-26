@@ -15,4 +15,4 @@ Host github.com
 7. add key to ssh-agent `ssh-add ~/.ssh/id_ed25519`
 8. optional, set origin `git remote set-origin git@github.com:...`
 
-## THIS IS A HEADER
+### Thanks for visiting!
